@@ -23,7 +23,7 @@ sudo sh ./LTColor.sh
 #vi /etc/gdm/custom.conf,令WaylandEnable=false重启即可
 ```
 
-运行截图如下，图二左上角为放大镜
+运行截图如下，图二左上角为放大镜。
 
 ![1](./imgs/1.png)
 
@@ -31,6 +31,6 @@ sudo sh ./LTColor.sh
 
 ## 3.2windows下使用
 
-解压，双击LTColor.exe即可
+解压，双击LTColor.exe即可。
 
 ![2](./imgs/3.png)
