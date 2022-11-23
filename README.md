@@ -16,7 +16,7 @@
 
 ```shell
 #下载并解压
-tar xvJf LTColor-linux-x64-1.0.tar.x
+tar xvJf LTColor-linux-x64-1.0.tar.xz
 #进入解压后所在文件夹目录启动程序
 sudo sh ./LTColor.sh
 #如果出现黑屏的情况可能是开启了wayland,
