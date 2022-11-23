@@ -4,7 +4,7 @@
 
 # 1.下载
 
-<a href="https://github.com/543211494/LTColor/releases/tag/2022-11-3">点击此处</a>获取已经打包好的程序，解压即用。
+<a href="https://github.com/543211494/LTColor/releases/tag/2022-11-23">点击此处</a>获取已经打包好的程序，解压即用。
 
 # 2.介绍
 
